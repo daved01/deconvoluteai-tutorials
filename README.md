@@ -1,4 +1,4 @@
-# Tutorials for DeconvluteAI
+# Tutorials for DeconvoluteAI
 
 <p align="center">
   <a href="https://www.python.org/downloads/release/python-310/"><img src="https://img.shields.io/badge/python-3.10-green.svg" alt="Python 3.10"></a>
@@ -10,7 +10,7 @@ Tutorials and code related to my website [DeconvoluteAI](https://deconvoluteai.c
 
 # Content
 
-## 1 NLP Evaluation Metrics
+## 1. NLP Evaluation Metrics
 
 A series on evaluation of natural language processing models.
 
